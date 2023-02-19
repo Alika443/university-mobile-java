@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="button_text">елки палки</string>
+    <string name="button1_text">hello world!</string>
+    <string name="button2_text">эй там</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">supercar</string>
 </resources>
